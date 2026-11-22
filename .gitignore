@@ -1,0 +1,25 @@
+# Copyrighted textbook materials & large binary assets
+pdfs/
+*.pdf
+*.f3d
+*.f3z
+*_raw.txt
+
+# Credentials, secrets & environment files
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa
+id_ed25519
+*credentials*.json
+*service-account*.json
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
